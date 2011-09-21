@@ -2,5 +2,7 @@
 
 void main()
 {
+	int a;
 	printf("\nPrimeiro arquivo no repositório.");
+	printf("\nSegunda linha impressa no arquivo.);
 }
